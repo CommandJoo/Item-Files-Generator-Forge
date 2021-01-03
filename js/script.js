@@ -30,7 +30,7 @@ document.getElementById('generate').addEventListener('click', event => {
     }
 });
 
-addLink('github', 'https://github.com/CommandJoo');
+addLink('github', 'https://github.com/CommandJoo/Item-Files-Generator-Forge');
 addEffect('github');
 
 function addLink(id, link) {
